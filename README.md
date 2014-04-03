@@ -6,7 +6,8 @@ Este es un ejemplo para aprender GIT.
 Voy a anotar algunos comandos para no olvidarlos
 
 <h3>INICIO UN NUEVO PROYECTO</h3>
-git init
+
+<div class="highlight highlight-bash"><pre>git init</pre></div>
 
 #CREAR UN NUEVO ARCHIVO
 touch "nombredelarchivo.extension"
