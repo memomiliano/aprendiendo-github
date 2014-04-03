@@ -5,7 +5,7 @@ Este es un ejemplo para aprender GIT.
 
 Voy a anotar algunos comandos para no olvidarlos
 
-#INICIO UN NUEVO PROYECTO
+<h3>INICIO UN NUEVO PROYECTO</h3>
 git init
 
 #CREAR UN NUEVO ARCHIVO
